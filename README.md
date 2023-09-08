@@ -1,3 +1,5 @@
+![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beeaann&theme=tokyonight&show_icons=true)
+
 ### 🚀 About Me
 
 🎓 Hey! I'm Luke Slautterback, a soon-to-be graduate in computer science from FIU. I'm a passionate software engineer/developer, eager to tackle exciting challenges and create innovative solutions. With a versatile skill set and a thirst for knowledge, I'm ready to make my mark in the ever-evolving world of technology.
